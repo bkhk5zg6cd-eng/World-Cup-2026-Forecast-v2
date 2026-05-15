@@ -1,0 +1,198 @@
+{
+  "source": "seeded-assumptions",
+  "lastUpdated": "2026-05-15T16:31:51Z",
+  "teams": [
+    {
+      "team": "Mexico",
+      "eloScore": 73
+    },
+    {
+      "team": "South Africa",
+      "eloScore": 61
+    },
+    {
+      "team": "South Korea",
+      "eloScore": 71
+    },
+    {
+      "team": "Czech Republic",
+      "eloScore": 72
+    },
+    {
+      "team": "Canada",
+      "eloScore": 69
+    },
+    {
+      "team": "Bosnia and Herzegovina",
+      "eloScore": 64
+    },
+    {
+      "team": "Qatar",
+      "eloScore": 59
+    },
+    {
+      "team": "Switzerland",
+      "eloScore": 79
+    },
+    {
+      "team": "Brazil",
+      "eloScore": 89
+    },
+    {
+      "team": "Morocco",
+      "eloScore": 81
+    },
+    {
+      "team": "Haiti",
+      "eloScore": 54
+    },
+    {
+      "team": "Scotland",
+      "eloScore": 71
+    },
+    {
+      "team": "United States",
+      "eloScore": 76
+    },
+    {
+      "team": "Paraguay",
+      "eloScore": 71
+    },
+    {
+      "team": "Australia",
+      "eloScore": 68
+    },
+    {
+      "team": "Turkey",
+      "eloScore": 75
+    },
+    {
+      "team": "Germany",
+      "eloScore": 84
+    },
+    {
+      "team": "Curaçao",
+      "eloScore": 55
+    },
+    {
+      "team": "Ivory Coast",
+      "eloScore": 72
+    },
+    {
+      "team": "Ecuador",
+      "eloScore": 77
+    },
+    {
+      "team": "Netherlands",
+      "eloScore": 83
+    },
+    {
+      "team": "Japan",
+      "eloScore": 78
+    },
+    {
+      "team": "Sweden",
+      "eloScore": 73
+    },
+    {
+      "team": "Tunisia",
+      "eloScore": 68
+    },
+    {
+      "team": "Belgium",
+      "eloScore": 80
+    },
+    {
+      "team": "Egypt",
+      "eloScore": 72
+    },
+    {
+      "team": "Iran",
+      "eloScore": 70
+    },
+    {
+      "team": "New Zealand",
+      "eloScore": 56
+    },
+    {
+      "team": "Spain",
+      "eloScore": 100
+    },
+    {
+      "team": "Cape Verde",
+      "eloScore": 58
+    },
+    {
+      "team": "Saudi Arabia",
+      "eloScore": 61
+    },
+    {
+      "team": "Uruguay",
+      "eloScore": 82
+    },
+    {
+      "team": "France",
+      "eloScore": 98
+    },
+    {
+      "team": "Senegal",
+      "eloScore": 78
+    },
+    {
+      "team": "Iraq",
+      "eloScore": 61
+    },
+    {
+      "team": "Norway",
+      "eloScore": 76
+    },
+    {
+      "team": "Argentina",
+      "eloScore": 99
+    },
+    {
+      "team": "Algeria",
+      "eloScore": 71
+    },
+    {
+      "team": "Austria",
+      "eloScore": 78
+    },
+    {
+      "team": "Jordan",
+      "eloScore": 59
+    },
+    {
+      "team": "Portugal",
+      "eloScore": 84
+    },
+    {
+      "team": "DR Congo",
+      "eloScore": 64
+    },
+    {
+      "team": "Uzbekistan",
+      "eloScore": 65
+    },
+    {
+      "team": "Colombia",
+      "eloScore": 80
+    },
+    {
+      "team": "England",
+      "eloScore": 94
+    },
+    {
+      "team": "Croatia",
+      "eloScore": 79
+    },
+    {
+      "team": "Ghana",
+      "eloScore": 68
+    },
+    {
+      "team": "Panama",
+      "eloScore": 62
+    }
+  ]
+}

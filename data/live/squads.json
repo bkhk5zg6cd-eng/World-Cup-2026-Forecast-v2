@@ -1,0 +1,294 @@
+{
+  "source": "seeded-assumptions",
+  "lastUpdated": "2026-05-15T16:31:51Z",
+  "items": [
+    {
+      "team": "Mexico",
+      "squadDepth": 72,
+      "squadValue": 70,
+      "confidence": "assumption"
+    },
+    {
+      "team": "South Africa",
+      "squadDepth": 58,
+      "squadValue": 56,
+      "confidence": "assumption"
+    },
+    {
+      "team": "South Korea",
+      "squadDepth": 70,
+      "squadValue": 68,
+      "confidence": "assumption"
+    },
+    {
+      "team": "Czech Republic",
+      "squadDepth": 68,
+      "squadValue": 67,
+      "confidence": "assumption"
+    },
+    {
+      "team": "Canada",
+      "squadDepth": 68,
+      "squadValue": 66,
+      "confidence": "assumption"
+    },
+    {
+      "team": "Bosnia and Herzegovina",
+      "squadDepth": 59,
+      "squadValue": 58,
+      "confidence": "assumption"
+    },
+    {
+      "team": "Qatar",
+      "squadDepth": 58,
+      "squadValue": 55,
+      "confidence": "assumption"
+    },
+    {
+      "team": "Switzerland",
+      "squadDepth": 76,
+      "squadValue": 75,
+      "confidence": "assumption"
+    },
+    {
+      "team": "Brazil",
+      "squadDepth": 89,
+      "squadValue": 88,
+      "confidence": "assumption"
+    },
+    {
+      "team": "Morocco",
+      "squadDepth": 77,
+      "squadValue": 76,
+      "confidence": "assumption"
+    },
+    {
+      "team": "Haiti",
+      "squadDepth": 50,
+      "squadValue": 49,
+      "confidence": "assumption"
+    },
+    {
+      "team": "Scotland",
+      "squadDepth": 67,
+      "squadValue": 66,
+      "confidence": "assumption"
+    },
+    {
+      "team": "United States",
+      "squadDepth": 78,
+      "squadValue": 76,
+      "confidence": "assumption"
+    },
+    {
+      "team": "Paraguay",
+      "squadDepth": 66,
+      "squadValue": 64,
+      "confidence": "assumption"
+    },
+    {
+      "team": "Australia",
+      "squadDepth": 64,
+      "squadValue": 62,
+      "confidence": "assumption"
+    },
+    {
+      "team": "Turkey",
+      "squadDepth": 74,
+      "squadValue": 72,
+      "confidence": "assumption"
+    },
+    {
+      "team": "Germany",
+      "squadDepth": 86,
+      "squadValue": 84,
+      "confidence": "assumption"
+    },
+    {
+      "team": "Curaçao",
+      "squadDepth": 51,
+      "squadValue": 50,
+      "confidence": "assumption"
+    },
+    {
+      "team": "Ivory Coast",
+      "squadDepth": 70,
+      "squadValue": 69,
+      "confidence": "assumption"
+    },
+    {
+      "team": "Ecuador",
+      "squadDepth": 74,
+      "squadValue": 73,
+      "confidence": "assumption"
+    },
+    {
+      "team": "Netherlands",
+      "squadDepth": 82,
+      "squadValue": 82,
+      "confidence": "assumption"
+    },
+    {
+      "team": "Japan",
+      "squadDepth": 76,
+      "squadValue": 74,
+      "confidence": "assumption"
+    },
+    {
+      "team": "Sweden",
+      "squadDepth": 71,
+      "squadValue": 70,
+      "confidence": "assumption"
+    },
+    {
+      "team": "Tunisia",
+      "squadDepth": 63,
+      "squadValue": 62,
+      "confidence": "assumption"
+    },
+    {
+      "team": "Belgium",
+      "squadDepth": 80,
+      "squadValue": 79,
+      "confidence": "assumption"
+    },
+    {
+      "team": "Egypt",
+      "squadDepth": 67,
+      "squadValue": 65,
+      "confidence": "assumption"
+    },
+    {
+      "team": "Iran",
+      "squadDepth": 65,
+      "squadValue": 63,
+      "confidence": "assumption"
+    },
+    {
+      "team": "New Zealand",
+      "squadDepth": 52,
+      "squadValue": 50,
+      "confidence": "assumption"
+    },
+    {
+      "team": "Spain",
+      "squadDepth": 96,
+      "squadValue": 95,
+      "confidence": "assumption"
+    },
+    {
+      "team": "Cape Verde",
+      "squadDepth": 53,
+      "squadValue": 52,
+      "confidence": "assumption"
+    },
+    {
+      "team": "Saudi Arabia",
+      "squadDepth": 59,
+      "squadValue": 57,
+      "confidence": "assumption"
+    },
+    {
+      "team": "Uruguay",
+      "squadDepth": 78,
+      "squadValue": 77,
+      "confidence": "assumption"
+    },
+    {
+      "team": "France",
+      "squadDepth": 100,
+      "squadValue": 100,
+      "confidence": "assumption"
+    },
+    {
+      "team": "Senegal",
+      "squadDepth": 75,
+      "squadValue": 74,
+      "confidence": "assumption"
+    },
+    {
+      "team": "Iraq",
+      "squadDepth": 56,
+      "squadValue": 54,
+      "confidence": "assumption"
+    },
+    {
+      "team": "Norway",
+      "squadDepth": 75,
+      "squadValue": 78,
+      "confidence": "assumption"
+    },
+    {
+      "team": "Argentina",
+      "squadDepth": 88,
+      "squadValue": 87,
+      "confidence": "assumption"
+    },
+    {
+      "team": "Algeria",
+      "squadDepth": 67,
+      "squadValue": 66,
+      "confidence": "assumption"
+    },
+    {
+      "team": "Austria",
+      "squadDepth": 74,
+      "squadValue": 73,
+      "confidence": "assumption"
+    },
+    {
+      "team": "Jordan",
+      "squadDepth": 54,
+      "squadValue": 52,
+      "confidence": "assumption"
+    },
+    {
+      "team": "Portugal",
+      "squadDepth": 87,
+      "squadValue": 86,
+      "confidence": "assumption"
+    },
+    {
+      "team": "DR Congo",
+      "squadDepth": 60,
+      "squadValue": 59,
+      "confidence": "assumption"
+    },
+    {
+      "team": "Uzbekistan",
+      "squadDepth": 61,
+      "squadValue": 59,
+      "confidence": "assumption"
+    },
+    {
+      "team": "Colombia",
+      "squadDepth": 77,
+      "squadValue": 76,
+      "confidence": "assumption"
+    },
+    {
+      "team": "England",
+      "squadDepth": 99,
+      "squadValue": 100,
+      "confidence": "assumption"
+    },
+    {
+      "team": "Croatia",
+      "squadDepth": 75,
+      "squadValue": 74,
+      "confidence": "assumption"
+    },
+    {
+      "team": "Ghana",
+      "squadDepth": 66,
+      "squadValue": 64,
+      "confidence": "assumption"
+    },
+    {
+      "team": "Panama",
+      "squadDepth": 58,
+      "squadValue": 56,
+      "confidence": "assumption"
+    }
+  ]
+}

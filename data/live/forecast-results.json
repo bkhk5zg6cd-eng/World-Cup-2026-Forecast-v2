@@ -1,0 +1,449 @@
+{
+  "source": "github-actions-model",
+  "lastUpdated": "2026-05-15T16:32:01Z",
+  "modelVersion": "1.0.0",
+  "latestMatchIncluded": "Latest available public data refresh.",
+  "topChampion": "Spain",
+  "topChampionProbability": 15.049,
+  "results": [
+    {
+      "team": "Spain",
+      "group": "H",
+      "region": "UEFA",
+      "championProbability": 15.049,
+      "baselineChampionProbability": 15.6,
+      "probabilityChange": -0.551,
+      "adjustedStrength": 96.147
+    },
+    {
+      "team": "France",
+      "group": "I",
+      "region": "UEFA",
+      "championProbability": 13.741,
+      "baselineChampionProbability": 13.9,
+      "probabilityChange": -0.159,
+      "adjustedStrength": 95.375
+    },
+    {
+      "team": "Argentina",
+      "group": "J",
+      "region": "CONMEBOL",
+      "championProbability": 10.206,
+      "baselineChampionProbability": 9.9,
+      "probabilityChange": 0.306,
+      "adjustedStrength": 92.16
+    },
+    {
+      "team": "England",
+      "group": "L",
+      "region": "UEFA",
+      "championProbability": 10.008,
+      "baselineChampionProbability": 11.5,
+      "probabilityChange": -1.492,
+      "adjustedStrength": 88.824
+    },
+    {
+      "team": "Brazil",
+      "group": "C",
+      "region": "CONMEBOL",
+      "championProbability": 6.929,
+      "baselineChampionProbability": 8.3,
+      "probabilityChange": -1.371,
+      "adjustedStrength": 83.059
+    },
+    {
+      "team": "Portugal",
+      "group": "K",
+      "region": "UEFA",
+      "championProbability": 5.199,
+      "baselineChampionProbability": 6.4,
+      "probabilityChange": -1.201,
+      "adjustedStrength": 78.611
+    },
+    {
+      "team": "Germany",
+      "group": "E",
+      "region": "UEFA",
+      "championProbability": 4.348,
+      "baselineChampionProbability": 5.3,
+      "probabilityChange": -0.952,
+      "adjustedStrength": 76.554
+    },
+    {
+      "team": "Netherlands",
+      "group": "F",
+      "region": "UEFA",
+      "championProbability": 3.16,
+      "baselineChampionProbability": 3.7,
+      "probabilityChange": -0.54,
+      "adjustedStrength": 73.401
+    },
+    {
+      "team": "Belgium",
+      "group": "G",
+      "region": "UEFA",
+      "championProbability": 2.467,
+      "baselineChampionProbability": 2.8,
+      "probabilityChange": -0.333,
+      "adjustedStrength": 70.886
+    },
+    {
+      "team": "Morocco",
+      "group": "C",
+      "region": "CAF",
+      "championProbability": 2.038,
+      "baselineChampionProbability": 2.0,
+      "probabilityChange": 0.038,
+      "adjustedStrength": 71.044
+    },
+    {
+      "team": "Uruguay",
+      "group": "H",
+      "region": "CONMEBOL",
+      "championProbability": 1.315,
+      "baselineChampionProbability": 0.68,
+      "probabilityChange": 0.636,
+      "adjustedStrength": 71.093
+    },
+    {
+      "team": "United States",
+      "group": "D",
+      "region": "CONCACAF",
+      "championProbability": 1.31,
+      "baselineChampionProbability": 0.625,
+      "probabilityChange": 0.685,
+      "adjustedStrength": 71.431
+    },
+    {
+      "team": "Colombia",
+      "group": "K",
+      "region": "CONMEBOL",
+      "championProbability": 1.257,
+      "baselineChampionProbability": 0.661,
+      "probabilityChange": 0.596,
+      "adjustedStrength": 70.416
+    },
+    {
+      "team": "Switzerland",
+      "group": "B",
+      "region": "UEFA",
+      "championProbability": 1.149,
+      "baselineChampionProbability": 0.643,
+      "probabilityChange": 0.507,
+      "adjustedStrength": 68.906
+    },
+    {
+      "team": "Mexico",
+      "group": "A",
+      "region": "CONCACAF",
+      "championProbability": 1.135,
+      "baselineChampionProbability": 0.572,
+      "probabilityChange": 0.563,
+      "adjustedStrength": 69.3
+    },
+    {
+      "team": "Croatia",
+      "group": "L",
+      "region": "UEFA",
+      "championProbability": 1.093,
+      "baselineChampionProbability": 0.661,
+      "probabilityChange": 0.432,
+      "adjustedStrength": 67.767
+    },
+    {
+      "team": "Senegal",
+      "group": "I",
+      "region": "CAF",
+      "championProbability": 1.044,
+      "baselineChampionProbability": 0.643,
+      "probabilityChange": 0.402,
+      "adjustedStrength": 67.068
+    },
+    {
+      "team": "Japan",
+      "group": "F",
+      "region": "AFC",
+      "championProbability": 1.018,
+      "baselineChampionProbability": 0.643,
+      "probabilityChange": 0.375,
+      "adjustedStrength": 66.558
+    },
+    {
+      "team": "Austria",
+      "group": "J",
+      "region": "UEFA",
+      "championProbability": 1.003,
+      "baselineChampionProbability": 0.625,
+      "probabilityChange": 0.378,
+      "adjustedStrength": 66.457
+    },
+    {
+      "team": "Ecuador",
+      "group": "E",
+      "region": "CONMEBOL",
+      "championProbability": 0.997,
+      "baselineChampionProbability": 0.607,
+      "probabilityChange": 0.39,
+      "adjustedStrength": 66.534
+    },
+    {
+      "team": "Norway",
+      "group": "I",
+      "region": "UEFA",
+      "championProbability": 0.852,
+      "baselineChampionProbability": 0.607,
+      "probabilityChange": 0.245,
+      "adjustedStrength": 63.33
+    },
+    {
+      "team": "Turkey",
+      "group": "D",
+      "region": "UEFA",
+      "championProbability": 0.846,
+      "baselineChampionProbability": 0.59,
+      "probabilityChange": 0.256,
+      "adjustedStrength": 63.419
+    },
+    {
+      "team": "Canada",
+      "group": "B",
+      "region": "CONCACAF",
+      "championProbability": 0.795,
+      "baselineChampionProbability": 0.507,
+      "probabilityChange": 0.289,
+      "adjustedStrength": 63.287
+    },
+    {
+      "team": "Ivory Coast",
+      "group": "E",
+      "region": "CAF",
+      "championProbability": 0.74,
+      "baselineChampionProbability": 0.539,
+      "probabilityChange": 0.201,
+      "adjustedStrength": 61.314
+    },
+    {
+      "team": "Sweden",
+      "group": "F",
+      "region": "UEFA",
+      "championProbability": 0.725,
+      "baselineChampionProbability": 0.556,
+      "probabilityChange": 0.17,
+      "adjustedStrength": 60.591
+    },
+    {
+      "team": "South Korea",
+      "group": "A",
+      "region": "AFC",
+      "championProbability": 0.716,
+      "baselineChampionProbability": 0.539,
+      "probabilityChange": 0.177,
+      "adjustedStrength": 60.588
+    },
+    {
+      "team": "Egypt",
+      "group": "G",
+      "region": "CAF",
+      "championProbability": 0.694,
+      "baselineChampionProbability": 0.539,
+      "probabilityChange": 0.155,
+      "adjustedStrength": 59.87
+    },
+    {
+      "team": "Czech Republic",
+      "group": "A",
+      "region": "UEFA",
+      "championProbability": 0.666,
+      "baselineChampionProbability": 0.523,
+      "probabilityChange": 0.143,
+      "adjustedStrength": 59.241
+    },
+    {
+      "team": "Algeria",
+      "group": "J",
+      "region": "CAF",
+      "championProbability": 0.655,
+      "baselineChampionProbability": 0.523,
+      "probabilityChange": 0.133,
+      "adjustedStrength": 58.879
+    },
+    {
+      "team": "Paraguay",
+      "group": "D",
+      "region": "CONMEBOL",
+      "championProbability": 0.652,
+      "baselineChampionProbability": 0.507,
+      "probabilityChange": 0.145,
+      "adjustedStrength": 59.064
+    },
+    {
+      "team": "Scotland",
+      "group": "C",
+      "region": "UEFA",
+      "championProbability": 0.613,
+      "baselineChampionProbability": 0.507,
+      "probabilityChange": 0.107,
+      "adjustedStrength": 57.644
+    },
+    {
+      "team": "Iran",
+      "group": "G",
+      "region": "AFC",
+      "championProbability": 0.598,
+      "baselineChampionProbability": 0.507,
+      "probabilityChange": 0.092,
+      "adjustedStrength": 57.051
+    },
+    {
+      "team": "Tunisia",
+      "group": "F",
+      "region": "CAF",
+      "championProbability": 0.539,
+      "baselineChampionProbability": 0.475,
+      "probabilityChange": 0.063,
+      "adjustedStrength": 55.2
+    },
+    {
+      "team": "Ghana",
+      "group": "L",
+      "region": "CAF",
+      "championProbability": 0.534,
+      "baselineChampionProbability": 0.475,
+      "probabilityChange": 0.058,
+      "adjustedStrength": 54.955
+    },
+    {
+      "team": "Australia",
+      "group": "D",
+      "region": "AFC",
+      "championProbability": 0.528,
+      "baselineChampionProbability": 0.475,
+      "probabilityChange": 0.052,
+      "adjustedStrength": 54.673
+    },
+    {
+      "team": "Panama",
+      "group": "L",
+      "region": "CONCACAF",
+      "championProbability": 0.428,
+      "baselineChampionProbability": 0.388,
+      "probabilityChange": 0.04,
+      "adjustedStrength": 51.844
+    },
+    {
+      "team": "South Africa",
+      "group": "A",
+      "region": "CAF",
+      "championProbability": 0.418,
+      "baselineChampionProbability": 0.402,
+      "probabilityChange": 0.016,
+      "adjustedStrength": 50.76
+    },
+    {
+      "team": "Uzbekistan",
+      "group": "K",
+      "region": "AFC",
+      "championProbability": 0.418,
+      "baselineChampionProbability": 0.43,
+      "probabilityChange": -0.013,
+      "adjustedStrength": 49.647
+    },
+    {
+      "team": "DR Congo",
+      "group": "K",
+      "region": "CAF",
+      "championProbability": 0.408,
+      "baselineChampionProbability": 0.416,
+      "probabilityChange": -0.008,
+      "adjustedStrength": 49.544
+    },
+    {
+      "team": "Bosnia and Herzegovina",
+      "group": "B",
+      "region": "UEFA",
+      "championProbability": 0.395,
+      "baselineChampionProbability": 0.402,
+      "probabilityChange": -0.007,
+      "adjustedStrength": 49.144
+    },
+    {
+      "team": "Saudi Arabia",
+      "group": "H",
+      "region": "AFC",
+      "championProbability": 0.357,
+      "baselineChampionProbability": 0.388,
+      "probabilityChange": -0.031,
+      "adjustedStrength": 46.621
+    },
+    {
+      "team": "Qatar",
+      "group": "B",
+      "region": "AFC",
+      "championProbability": 0.35,
+      "baselineChampionProbability": 0.374,
+      "probabilityChange": -0.024,
+      "adjustedStrength": 46.741
+    },
+    {
+      "team": "Iraq",
+      "group": "I",
+      "region": "AFC",
+      "championProbability": 0.331,
+      "baselineChampionProbability": 0.374,
+      "probabilityChange": -0.043,
+      "adjustedStrength": 44.888
+    },
+    {
+      "team": "Jordan",
+      "group": "J",
+      "region": "AFC",
+      "championProbability": 0.298,
+      "baselineChampionProbability": 0.348,
+      "probabilityChange": -0.05,
+      "adjustedStrength": 42.798
+    },
+    {
+      "team": "Cape Verde",
+      "group": "H",
+      "region": "CAF",
+      "championProbability": 0.294,
+      "baselineChampionProbability": 0.335,
+      "probabilityChange": -0.041,
+      "adjustedStrength": 43.113
+    },
+    {
+      "team": "Curaçao",
+      "group": "E",
+      "region": "CONCACAF",
+      "championProbability": 0.285,
+      "baselineChampionProbability": 0.31,
+      "probabilityChange": -0.025,
+      "adjustedStrength": 43.691
+    },
+    {
+      "team": "Haiti",
+      "group": "C",
+      "region": "CONCACAF",
+      "championProbability": 0.266,
+      "baselineChampionProbability": 0.298,
+      "probabilityChange": -0.032,
+      "adjustedStrength": 42.186
+    },
+    {
+      "team": "New Zealand",
+      "group": "G",
+      "region": "OFC",
+      "championProbability": 0.253,
+      "baselineChampionProbability": 0.31,
+      "probabilityChange": -0.057,
+      "adjustedStrength": 39.468
+    }
+  ],
+  "whatChanged": [
+    {
+      "team": "Spain",
+      "change": 0,
+      "reason": "Model inputs refreshed from latest available data."
+    }
+  ]
+}

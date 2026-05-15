@@ -1,0 +1,39 @@
+name: Update forecast and deploy Pages
+on:
+  schedule:
+    - cron: "0 */4 * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+concurrency:
+  group: pages
+  cancel-in-progress: false
+jobs:
+  update-and-deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: python scripts/update_sources.py
+      - run: python scripts/run_model.py
+      - run: python scripts/validate_data.py
+      - run: python scripts/build_history.py
+      - name: Commit refreshed data
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add data/
+          if git diff --cached --quiet; then echo "No data changes to commit."; else git commit -m "Update forecast data"; git push; fi
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: "."
+      - id: deployment
+        uses: actions/deploy-pages@v4

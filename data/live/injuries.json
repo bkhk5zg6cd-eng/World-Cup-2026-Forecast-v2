@@ -1,0 +1,248 @@
+{
+  "source": "automatic-free-source-placeholder",
+  "lastUpdated": "2026-05-15T16:31:51Z",
+  "confidencePolicy": "confirmed/probable/unverified/stale",
+  "items": [],
+  "teamAdjustments": [
+    {
+      "team": "Mexico",
+      "injuryRisk": 24,
+      "confidence": "assumption"
+    },
+    {
+      "team": "South Africa",
+      "injuryRisk": 30,
+      "confidence": "assumption"
+    },
+    {
+      "team": "South Korea",
+      "injuryRisk": 26,
+      "confidence": "assumption"
+    },
+    {
+      "team": "Czech Republic",
+      "injuryRisk": 28,
+      "confidence": "assumption"
+    },
+    {
+      "team": "Canada",
+      "injuryRisk": 29,
+      "confidence": "assumption"
+    },
+    {
+      "team": "Bosnia and Herzegovina",
+      "injuryRisk": 33,
+      "confidence": "assumption"
+    },
+    {
+      "team": "Qatar",
+      "injuryRisk": 31,
+      "confidence": "assumption"
+    },
+    {
+      "team": "Switzerland",
+      "injuryRisk": 25,
+      "confidence": "assumption"
+    },
+    {
+      "team": "Brazil",
+      "injuryRisk": 28,
+      "confidence": "assumption"
+    },
+    {
+      "team": "Morocco",
+      "injuryRisk": 24,
+      "confidence": "assumption"
+    },
+    {
+      "team": "Haiti",
+      "injuryRisk": 38,
+      "confidence": "assumption"
+    },
+    {
+      "team": "Scotland",
+      "injuryRisk": 28,
+      "confidence": "assumption"
+    },
+    {
+      "team": "United States",
+      "injuryRisk": 27,
+      "confidence": "assumption"
+    },
+    {
+      "team": "Paraguay",
+      "injuryRisk": 29,
+      "confidence": "assumption"
+    },
+    {
+      "team": "Australia",
+      "injuryRisk": 30,
+      "confidence": "assumption"
+    },
+    {
+      "team": "Turkey",
+      "injuryRisk": 29,
+      "confidence": "assumption"
+    },
+    {
+      "team": "Germany",
+      "injuryRisk": 27,
+      "confidence": "assumption"
+    },
+    {
+      "team": "Curaçao",
+      "injuryRisk": 36,
+      "confidence": "assumption"
+    },
+    {
+      "team": "Ivory Coast",
+      "injuryRisk": 28,
+      "confidence": "assumption"
+    },
+    {
+      "team": "Ecuador",
+      "injuryRisk": 27,
+      "confidence": "assumption"
+    },
+    {
+      "team": "Netherlands",
+      "injuryRisk": 26,
+      "confidence": "assumption"
+    },
+    {
+      "team": "Japan",
+      "injuryRisk": 24,
+      "confidence": "assumption"
+    },
+    {
+      "team": "Sweden",
+      "injuryRisk": 28,
+      "confidence": "assumption"
+    },
+    {
+      "team": "Tunisia",
+      "injuryRisk": 29,
+      "confidence": "assumption"
+    },
+    {
+      "team": "Belgium",
+      "injuryRisk": 28,
+      "confidence": "assumption"
+    },
+    {
+      "team": "Egypt",
+      "injuryRisk": 30,
+      "confidence": "assumption"
+    },
+    {
+      "team": "Iran",
+      "injuryRisk": 29,
+      "confidence": "assumption"
+    },
+    {
+      "team": "New Zealand",
+      "injuryRisk": 34,
+      "confidence": "assumption"
+    },
+    {
+      "team": "Spain",
+      "injuryRisk": 24,
+      "confidence": "assumption"
+    },
+    {
+      "team": "Cape Verde",
+      "injuryRisk": 34,
+      "confidence": "assumption"
+    },
+    {
+      "team": "Saudi Arabia",
+      "injuryRisk": 32,
+      "confidence": "assumption"
+    },
+    {
+      "team": "Uruguay",
+      "injuryRisk": 27,
+      "confidence": "assumption"
+    },
+    {
+      "team": "France",
+      "injuryRisk": 25,
+      "confidence": "assumption"
+    },
+    {
+      "team": "Senegal",
+      "injuryRisk": 27,
+      "confidence": "assumption"
+    },
+    {
+      "team": "Iraq",
+      "injuryRisk": 33,
+      "confidence": "assumption"
+    },
+    {
+      "team": "Norway",
+      "injuryRisk": 29,
+      "confidence": "assumption"
+    },
+    {
+      "team": "Argentina",
+      "injuryRisk": 25,
+      "confidence": "assumption"
+    },
+    {
+      "team": "Algeria",
+      "injuryRisk": 29,
+      "confidence": "assumption"
+    },
+    {
+      "team": "Austria",
+      "injuryRisk": 25,
+      "confidence": "assumption"
+    },
+    {
+      "team": "Jordan",
+      "injuryRisk": 33,
+      "confidence": "assumption"
+    },
+    {
+      "team": "Portugal",
+      "injuryRisk": 27,
+      "confidence": "assumption"
+    },
+    {
+      "team": "DR Congo",
+      "injuryRisk": 34,
+      "confidence": "assumption"
+    },
+    {
+      "team": "Uzbekistan",
+      "injuryRisk": 31,
+      "confidence": "assumption"
+    },
+    {
+      "team": "Colombia",
+      "injuryRisk": 27,
+      "confidence": "assumption"
+    },
+    {
+      "team": "England",
+      "injuryRisk": 26,
+      "confidence": "assumption"
+    },
+    {
+      "team": "Croatia",
+      "injuryRisk": 29,
+      "confidence": "assumption"
+    },
+    {
+      "team": "Ghana",
+      "injuryRisk": 31,
+      "confidence": "assumption"
+    },
+    {
+      "team": "Panama",
+      "injuryRisk": 32,
+      "confidence": "assumption"
+    }
+  ]
+}

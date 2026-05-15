@@ -1,0 +1,41 @@
+{
+  "lastUpdated": "2026-05-15T16:31:51Z",
+  "sources": [
+    {
+      "name": "fixtures",
+      "status": "seeded",
+      "freshness": "baseline",
+      "message": "Seeded from 2026 draw assumptions."
+    },
+    {
+      "name": "results",
+      "status": "pending",
+      "freshness": "not-started",
+      "message": "Tournament results not yet available."
+    },
+    {
+      "name": "rankings",
+      "status": "seeded",
+      "freshness": "baseline",
+      "message": "Baseline ranking proxies included."
+    },
+    {
+      "name": "elo",
+      "status": "seeded",
+      "freshness": "baseline",
+      "message": "Baseline Elo proxies included."
+    },
+    {
+      "name": "injuries",
+      "status": "assumption",
+      "freshness": "requires-free-source-validation",
+      "message": "Automatic free-source tracking is best-effort."
+    },
+    {
+      "name": "squads",
+      "status": "assumption",
+      "freshness": "requires-free-source-validation",
+      "message": "Final squads should be refreshed when published."
+    }
+  ]
+}
