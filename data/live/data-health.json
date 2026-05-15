@@ -1,17 +1,17 @@
 {
-  "lastUpdated": "2026-05-15T16:31:51Z",
+  "lastUpdated": "2026-05-15T17:23:46Z",
   "sources": [
     {
       "name": "fixtures",
-      "status": "seeded",
-      "freshness": "baseline",
-      "message": "Seeded from 2026 draw assumptions."
+      "status": "current",
+      "freshness": "refreshed",
+      "message": "OpenFootball JSON fetched successfully."
     },
     {
       "name": "results",
       "status": "pending",
       "freshness": "not-started",
-      "message": "Tournament results not yet available."
+      "message": "No official match results ingested yet. Workflow is ready for tournament results."
     },
     {
       "name": "rankings",
@@ -27,9 +27,9 @@
     },
     {
       "name": "injuries",
-      "status": "assumption",
-      "freshness": "requires-free-source-validation",
-      "message": "Automatic free-source tracking is best-effort."
+      "status": "warning",
+      "freshness": "best-effort",
+      "message": "No reliable free injury API configured. Existing injury assumptions preserved with confidence flags."
     },
     {
       "name": "squads",
