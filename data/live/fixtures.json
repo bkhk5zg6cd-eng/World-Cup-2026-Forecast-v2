@@ -1,6 +1,6 @@
 {
   "source": "openfootball-worldcup-json",
-  "lastUpdated": "2026-06-12T12:38:52Z",
+  "lastUpdated": "2026-06-12T22:06:56Z",
   "groups": {
     "A": [
       "Mexico",
@@ -186,6 +186,28 @@
         "time": "15:00 UTC-4",
         "team1": "Canada",
         "team2": "Bosnia & Herzegovina",
+        "score": {
+          "ft": [
+            1,
+            1
+          ],
+          "ht": [
+            0,
+            1
+          ]
+        },
+        "goals1": [
+          {
+            "name": "Cyle Larin",
+            "minute": "78"
+          }
+        ],
+        "goals2": [
+          {
+            "name": "Jovo Lukić",
+            "minute": "21"
+          }
+        ],
         "group": "Group B",
         "ground": "Toronto"
       },
