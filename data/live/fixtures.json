@@ -1,6 +1,6 @@
 {
   "source": "openfootball-worldcup-json",
-  "lastUpdated": "2026-06-11T22:30:03Z",
+  "lastUpdated": "2026-06-12T12:38:52Z",
   "groups": {
     "A": [
       "Mexico",
@@ -85,6 +85,27 @@
         "time": "13:00 UTC-6",
         "team1": "Mexico",
         "team2": "South Africa",
+        "score": {
+          "ft": [
+            2,
+            0
+          ],
+          "ht": [
+            1,
+            0
+          ]
+        },
+        "goals1": [
+          {
+            "name": "Julián Quiñones",
+            "minute": "9"
+          },
+          {
+            "name": "Raúl Jiménez",
+            "minute": "67"
+          }
+        ],
+        "goals2": [],
         "group": "Group A",
         "ground": "Mexico City"
       },
@@ -94,6 +115,32 @@
         "time": "20:00 UTC-6",
         "team1": "South Korea",
         "team2": "Czech Republic",
+        "score": {
+          "ft": [
+            2,
+            1
+          ],
+          "ht": [
+            0,
+            0
+          ]
+        },
+        "goals1": [
+          {
+            "name": "Hwang In-Beom",
+            "minute": "67"
+          },
+          {
+            "name": "Oh Hyeon-Gyu",
+            "minute": "80"
+          }
+        ],
+        "goals2": [
+          {
+            "name": "Ladislav Krejcí",
+            "minute": "59"
+          }
+        ],
         "group": "Group A",
         "ground": "Guadalajara (Zapopan)"
       },
@@ -999,6 +1046,7 @@
       },
       {
         "round": "Match for third place",
+        "num": 103,
         "date": "2026-07-18",
         "time": "17:00 UTC-4",
         "team1": "L101",
@@ -1007,6 +1055,7 @@
       },
       {
         "round": "Final",
+        "num": 104,
         "date": "2026-07-19",
         "time": "15:00 UTC-4",
         "team1": "W101",
