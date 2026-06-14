@@ -1,6 +1,6 @@
 {
   "source": "openfootball-worldcup-json",
-  "lastUpdated": "2026-06-14T10:53:46Z",
+  "lastUpdated": "2026-06-14T17:00:57Z",
   "groups": {
     "A": [
       "Mexico",
@@ -422,6 +422,27 @@
         "time": "21:00 UTC-7",
         "team1": "Australia",
         "team2": "Turkey",
+        "score": {
+          "ft": [
+            2,
+            0
+          ],
+          "ht": [
+            1,
+            0
+          ]
+        },
+        "goals1": [
+          {
+            "name": "Nestory Irankunda",
+            "minute": "27"
+          },
+          {
+            "name": "Connor Metcalfe",
+            "minute": "75"
+          }
+        ],
+        "goals2": [],
         "group": "Group D",
         "ground": "Vancouver"
       },
