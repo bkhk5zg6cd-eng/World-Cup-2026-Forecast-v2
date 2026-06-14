@@ -1,6 +1,6 @@
 {
   "source": "openfootball-worldcup-json",
-  "lastUpdated": "2026-06-13T23:49:02Z",
+  "lastUpdated": "2026-06-14T10:53:46Z",
   "groups": {
     "A": [
       "Mexico",
@@ -285,6 +285,28 @@
         "time": "18:00 UTC-4",
         "team1": "Brazil",
         "team2": "Morocco",
+        "score": {
+          "ft": [
+            1,
+            1
+          ],
+          "ht": [
+            1,
+            1
+          ]
+        },
+        "goals1": [
+          {
+            "name": "Vinícius Júnior",
+            "minute": "32"
+          }
+        ],
+        "goals2": [
+          {
+            "name": "Ismael Saibari",
+            "minute": "21"
+          }
+        ],
         "group": "Group C",
         "ground": "New York/New Jersey (East Rutherford)"
       },
@@ -294,6 +316,23 @@
         "time": "21:00 UTC-4",
         "team1": "Haiti",
         "team2": "Scotland",
+        "score": {
+          "ft": [
+            0,
+            1
+          ],
+          "ht": [
+            0,
+            1
+          ]
+        },
+        "goals1": [],
+        "goals2": [
+          {
+            "name": "John McGinn",
+            "minute": "28"
+          }
+        ],
         "group": "Group C",
         "ground": "Boston (Foxborough)"
       },
