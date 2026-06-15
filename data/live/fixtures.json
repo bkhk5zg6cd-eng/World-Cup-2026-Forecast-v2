@@ -1,6 +1,6 @@
 {
   "source": "openfootball-worldcup-json",
-  "lastUpdated": "2026-06-14T21:10:17Z",
+  "lastUpdated": "2026-06-15T04:05:46Z",
   "groups": {
     "A": [
       "Mexico",
@@ -544,6 +544,23 @@
         "time": "19:00 UTC-4",
         "team1": "Ivory Coast",
         "team2": "Ecuador",
+        "score": {
+          "ft": [
+            1,
+            0
+          ],
+          "ht": [
+            0,
+            0
+          ]
+        },
+        "goals1": [
+          {
+            "name": "Amad Diallo",
+            "minute": "90"
+          }
+        ],
+        "goals2": [],
         "group": "Group E",
         "ground": "Philadelphia"
       },
@@ -589,6 +606,36 @@
         "time": "15:00 UTC-5",
         "team1": "Netherlands",
         "team2": "Japan",
+        "score": {
+          "ft": [
+            2,
+            2
+          ],
+          "ht": [
+            0,
+            0
+          ]
+        },
+        "goals1": [
+          {
+            "name": "Virgil van Dijk",
+            "minute": "51"
+          },
+          {
+            "name": "Crysencio Summerville",
+            "minute": "64"
+          }
+        ],
+        "goals2": [
+          {
+            "name": "Keito Nakamura",
+            "minute": "57"
+          },
+          {
+            "name": "Daichi Kamada",
+            "minute": "88"
+          }
+        ],
         "group": "Group F",
         "ground": "Dallas (Arlington)"
       },
