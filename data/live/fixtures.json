@@ -1,6 +1,6 @@
 {
   "source": "openfootball-worldcup-json",
-  "lastUpdated": "2026-06-16T16:47:51Z",
+  "lastUpdated": "2026-06-16T22:09:53Z",
   "groups": {
     "A": [
       "Mexico",
@@ -921,6 +921,36 @@
         "time": "15:00 UTC-4",
         "team1": "France",
         "team2": "Senegal",
+        "score": {
+          "ft": [
+            3,
+            1
+          ],
+          "ht": [
+            0,
+            0
+          ]
+        },
+        "goals1": [
+          {
+            "name": "Kylian Mbappé",
+            "minute": "66"
+          },
+          {
+            "name": "Bradley Barcola",
+            "minute": "82"
+          },
+          {
+            "name": "Kylian Mbappé",
+            "minute": "90+6"
+          }
+        ],
+        "goals2": [
+          {
+            "name": "Ibrahim Mbaye",
+            "minute": "90+5"
+          }
+        ],
         "group": "Group I",
         "ground": "New York/New Jersey (East Rutherford)"
       },
