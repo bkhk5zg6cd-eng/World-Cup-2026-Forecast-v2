@@ -1,6 +1,6 @@
 {
   "source": "openfootball-worldcup-json",
-  "lastUpdated": "2026-06-18T15:19:50Z",
+  "lastUpdated": "2026-06-18T18:24:58Z",
   "groups": {
     "A": [
       "Mexico",
@@ -150,6 +150,29 @@
         "time": "12:00 UTC-4",
         "team1": "Czech Republic",
         "team2": "South Africa",
+        "score": {
+          "ft": [
+            1,
+            1
+          ],
+          "ht": [
+            1,
+            0
+          ]
+        },
+        "goals1": [
+          {
+            "name": "Michal Sadílek",
+            "minute": "6"
+          }
+        ],
+        "goals2": [
+          {
+            "name": "Teboho Mokoena",
+            "minute": "83",
+            "penalty": true
+          }
+        ],
         "group": "Group A",
         "ground": "Atlanta"
       },
