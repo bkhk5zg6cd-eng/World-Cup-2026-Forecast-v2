@@ -1,6 +1,6 @@
 {
   "source": "openfootball-worldcup-json",
-  "lastUpdated": "2026-06-17T21:59:19Z",
+  "lastUpdated": "2026-06-18T03:43:57Z",
   "groups": {
     "A": [
       "Mexico",
@@ -1227,6 +1227,45 @@
         "time": "15:00 UTC-5",
         "team1": "England",
         "team2": "Croatia",
+        "score": {
+          "ft": [
+            4,
+            2
+          ],
+          "ht": [
+            2,
+            2
+          ]
+        },
+        "goals1": [
+          {
+            "name": "Harry Kane",
+            "minute": "12",
+            "penalty": true
+          },
+          {
+            "name": "Harry Kane",
+            "minute": "42"
+          },
+          {
+            "name": "Jude Bellingham",
+            "minute": "47"
+          },
+          {
+            "name": "Marcus Rashford",
+            "minute": "85"
+          }
+        ],
+        "goals2": [
+          {
+            "name": "Martin Baturina",
+            "minute": "36"
+          },
+          {
+            "name": "Petar Musa",
+            "minute": "45+5"
+          }
+        ],
         "group": "Group L",
         "ground": "Dallas (Arlington)"
       },
@@ -1236,6 +1275,23 @@
         "time": "19:00 UTC-4",
         "team1": "Ghana",
         "team2": "Panama",
+        "score": {
+          "ft": [
+            1,
+            0
+          ],
+          "ht": [
+            0,
+            0
+          ]
+        },
+        "goals1": [
+          {
+            "name": "Caleb Yirenkyi",
+            "minute": "90+5"
+          }
+        ],
+        "goals2": [],
         "group": "Group L",
         "ground": "Toronto"
       },
