@@ -1,6 +1,6 @@
 {
   "source": "openfootball-worldcup-json",
-  "lastUpdated": "2026-06-18T22:05:38Z",
+  "lastUpdated": "2026-06-19T04:07:05Z",
   "groups": {
     "A": [
       "Mexico",
@@ -182,6 +182,23 @@
         "time": "19:00 UTC-6",
         "team1": "Mexico",
         "team2": "South Korea",
+        "score": {
+          "ft": [
+            1,
+            0
+          ],
+          "ht": [
+            0,
+            0
+          ]
+        },
+        "goals1": [
+          {
+            "name": "Luis Romo",
+            "minute": "50"
+          }
+        ],
+        "goals2": [],
         "group": "Group A",
         "ground": "Guadalajara (Zapopan)"
       },
@@ -316,6 +333,44 @@
         "time": "15:00 UTC-7",
         "team1": "Canada",
         "team2": "Qatar",
+        "score": {
+          "ft": [
+            6,
+            0
+          ],
+          "ht": [
+            3,
+            0
+          ]
+        },
+        "goals1": [
+          {
+            "name": "Cyle Larin",
+            "minute": "16"
+          },
+          {
+            "name": "Jonathan David",
+            "minute": "29"
+          },
+          {
+            "name": "Jonathan David",
+            "minute": "45+3"
+          },
+          {
+            "name": "Nathan Saliba",
+            "minute": "64"
+          },
+          {
+            "name": "Mohamed Manai",
+            "minute": "75",
+            "owngoal": true
+          },
+          {
+            "name": "Jonathan David",
+            "minute": "90+2"
+          }
+        ],
+        "goals2": [],
         "group": "Group B",
         "ground": "Vancouver"
       },
