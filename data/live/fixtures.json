@@ -1,6 +1,6 @@
 {
   "source": "openfootball-worldcup-json",
-  "lastUpdated": "2026-06-20T10:31:02Z",
+  "lastUpdated": "2026-06-20T13:58:33Z",
   "groups": {
     "A": [
       "Mexico",
@@ -269,8 +269,9 @@
         },
         "goals1": [
           {
-            "name": "Boualem Khoukhi",
-            "minute": "90+4"
+            "name": "Miro Muheim",
+            "minute": "90+4",
+            "owngoal": true
           }
         ],
         "goals2": [
