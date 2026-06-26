@@ -1,6 +1,6 @@
 {
   "source": "openfootball-worldcup-json",
-  "lastUpdated": "2026-06-25T21:40:53Z",
+  "lastUpdated": "2026-06-26T03:31:31Z",
   "groups": {
     "A": [
       "Mexico",
@@ -982,6 +982,27 @@
         "time": "16:00 UTC-4",
         "team1": "Curaçao",
         "team2": "Ivory Coast",
+        "score": {
+          "ft": [
+            0,
+            2
+          ],
+          "ht": [
+            0,
+            1
+          ]
+        },
+        "goals1": [],
+        "goals2": [
+          {
+            "name": "Nicolas Pépé",
+            "minute": "7"
+          },
+          {
+            "name": "Nicolas Pépé",
+            "minute": "64"
+          }
+        ],
         "group": "Group E",
         "ground": "Philadelphia"
       },
@@ -991,6 +1012,32 @@
         "time": "16:00 UTC-4",
         "team1": "Ecuador",
         "team2": "Germany",
+        "score": {
+          "ft": [
+            2,
+            1
+          ],
+          "ht": [
+            1,
+            1
+          ]
+        },
+        "goals1": [
+          {
+            "name": "Nilson Angulo",
+            "minute": "9"
+          },
+          {
+            "name": "Gonzalo Plata",
+            "minute": "77"
+          }
+        ],
+        "goals2": [
+          {
+            "name": "Leroy Sané",
+            "minute": "2"
+          }
+        ],
         "group": "Group E",
         "ground": "New York/New Jersey (East Rutherford)"
       },
@@ -1171,6 +1218,28 @@
         "time": "18:00 UTC-5",
         "team1": "Japan",
         "team2": "Sweden",
+        "score": {
+          "ft": [
+            1,
+            1
+          ],
+          "ht": [
+            0,
+            0
+          ]
+        },
+        "goals1": [
+          {
+            "name": "Daizen Maeda",
+            "minute": "56"
+          }
+        ],
+        "goals2": [
+          {
+            "name": "Anthony Elanga",
+            "minute": "62"
+          }
+        ],
         "group": "Group F",
         "ground": "Dallas (Arlington)"
       },
@@ -1180,6 +1249,37 @@
         "time": "18:00 UTC-5",
         "team1": "Tunisia",
         "team2": "Netherlands",
+        "score": {
+          "ft": [
+            1,
+            3
+          ],
+          "ht": [
+            0,
+            2
+          ]
+        },
+        "goals1": [
+          {
+            "name": "Hazem Mastouri",
+            "minute": "54"
+          }
+        ],
+        "goals2": [
+          {
+            "name": "Ellyes Skhiri",
+            "minute": "3",
+            "owngoal": true
+          },
+          {
+            "name": "Brian Brobbey",
+            "minute": "7"
+          },
+          {
+            "name": "Jan Paul van Hecke",
+            "minute": "62"
+          }
+        ],
         "group": "Group F",
         "ground": "Kansas City"
       },
