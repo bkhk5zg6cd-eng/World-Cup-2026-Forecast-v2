@@ -1,6 +1,6 @@
 {
   "source": "openfootball-worldcup-json",
-  "lastUpdated": "2026-06-26T10:49:24Z",
+  "lastUpdated": "2026-06-26T14:20:43Z",
   "groups": {
     "A": [
       "Mexico",
@@ -2273,7 +2273,7 @@
         "num": 75,
         "date": "2026-06-29",
         "time": "19:00 UTC-6",
-        "team1": "1F",
+        "team1": "Netherlands",
         "team2": "Morocco",
         "ground": "Monterrey (Guadalupe)"
       },
@@ -2283,7 +2283,7 @@
         "date": "2026-06-29",
         "time": "12:00 UTC-5",
         "team1": "Brazil",
-        "team2": "2F",
+        "team2": "Japan",
         "ground": "Houston"
       },
       {
@@ -2300,7 +2300,7 @@
         "num": 78,
         "date": "2026-06-30",
         "time": "12:00 UTC-5",
-        "team1": "2E",
+        "team1": "Ivory Coast",
         "team2": "2I",
         "ground": "Dallas (Arlington)"
       },
@@ -2390,7 +2390,7 @@
         "num": 88,
         "date": "2026-07-03",
         "time": "13:00 UTC-5",
-        "team1": "2D",
+        "team1": "Australia",
         "team2": "2G",
         "ground": "Dallas (Arlington)"
       },
