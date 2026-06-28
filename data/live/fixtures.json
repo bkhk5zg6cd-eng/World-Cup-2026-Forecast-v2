@@ -1,6 +1,6 @@
 {
   "source": "openfootball-worldcup-json",
-  "lastUpdated": "2026-06-28T07:49:30Z",
+  "lastUpdated": "2026-06-28T10:25:53Z",
   "groups": {
     "A": [
       "Mexico",
@@ -2576,7 +2576,7 @@
         "date": "2026-06-29",
         "time": "16:30 UTC-4",
         "team1": "Germany",
-        "team2": "3A/B/C/D/F",
+        "team2": "Paraguay",
         "ground": "Boston (Foxborough)"
       },
       {
@@ -2602,8 +2602,8 @@
         "num": 77,
         "date": "2026-06-30",
         "time": "17:00 UTC-4",
-        "team1": "1I",
-        "team2": "3C/D/F/G/H",
+        "team1": "France",
+        "team2": "Sweden",
         "ground": "New York/New Jersey (East Rutherford)"
       },
       {
@@ -2612,7 +2612,7 @@
         "date": "2026-06-30",
         "time": "12:00 UTC-5",
         "team1": "Ivory Coast",
-        "team2": "2I",
+        "team2": "Norway",
         "ground": "Dallas (Arlington)"
       },
       {
@@ -2621,7 +2621,7 @@
         "date": "2026-06-30",
         "time": "19:00 UTC-6",
         "team1": "Mexico",
-        "team2": "3C/E/F/H/I",
+        "team2": "Ecuador",
         "ground": "Mexico City"
       },
       {
@@ -2629,8 +2629,8 @@
         "num": 80,
         "date": "2026-07-01",
         "time": "12:00 UTC-4",
-        "team1": "1L",
-        "team2": "3E/H/I/J/K",
+        "team1": "England",
+        "team2": "DR Congo",
         "ground": "Atlanta"
       },
       {
@@ -2639,7 +2639,7 @@
         "date": "2026-07-01",
         "time": "17:00 UTC-7",
         "team1": "USA",
-        "team2": "3B/E/F/I/J",
+        "team2": "Bosnia & Herzegovina",
         "ground": "San Francisco Bay Area (Santa Clara)"
       },
       {
@@ -2647,8 +2647,8 @@
         "num": 82,
         "date": "2026-07-01",
         "time": "13:00 UTC-7",
-        "team1": "1G",
-        "team2": "3A/E/H/I/J",
+        "team1": "Belgium",
+        "team2": "Senegal",
         "ground": "Seattle"
       },
       {
@@ -2656,8 +2656,8 @@
         "num": 83,
         "date": "2026-07-02",
         "time": "19:00 UTC-4",
-        "team1": "2K",
-        "team2": "2L",
+        "team1": "Portugal",
+        "team2": "Croatia",
         "ground": "Toronto"
       },
       {
@@ -2665,8 +2665,8 @@
         "num": 84,
         "date": "2026-07-02",
         "time": "12:00 UTC-7",
-        "team1": "1H",
-        "team2": "2J",
+        "team1": "Spain",
+        "team2": "Austria",
         "ground": "Los Angeles (Inglewood)"
       },
       {
@@ -2675,7 +2675,7 @@
         "date": "2026-07-02",
         "time": "20:00 UTC-7",
         "team1": "Switzerland",
-        "team2": "3E/F/G/I/J",
+        "team2": "Algeria",
         "ground": "Vancouver"
       },
       {
@@ -2683,8 +2683,8 @@
         "num": 86,
         "date": "2026-07-03",
         "time": "18:00 UTC-4",
-        "team1": "1J",
-        "team2": "2H",
+        "team1": "Argentina",
+        "team2": "Cape Verde",
         "ground": "Miami (Miami Gardens)"
       },
       {
@@ -2692,8 +2692,8 @@
         "num": 87,
         "date": "2026-07-03",
         "time": "20:30 UTC-5",
-        "team1": "1K",
-        "team2": "3D/E/I/J/L",
+        "team1": "Colombia",
+        "team2": "Ghana",
         "ground": "Kansas City"
       },
       {
@@ -2702,7 +2702,7 @@
         "date": "2026-07-03",
         "time": "13:00 UTC-5",
         "team1": "Australia",
-        "team2": "2G",
+        "team2": "Egypt",
         "ground": "Dallas (Arlington)"
       },
       {
