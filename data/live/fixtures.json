@@ -1,6 +1,6 @@
 {
   "source": "openfootball-worldcup-json",
-  "lastUpdated": "2026-06-28T20:59:07Z",
+  "lastUpdated": "2026-06-29T03:41:37Z",
   "groups": {
     "A": [
       "Mexico",
@@ -2568,6 +2568,23 @@
         "time": "12:00 UTC-7",
         "team1": "South Africa",
         "team2": "Canada",
+        "score": {
+          "ft": [
+            0,
+            1
+          ],
+          "ht": [
+            0,
+            0
+          ]
+        },
+        "goals1": [],
+        "goals2": [
+          {
+            "name": "Stephan Eustáquio",
+            "minute": "90+2"
+          }
+        ],
         "ground": "Los Angeles (Inglewood)"
       },
       {
