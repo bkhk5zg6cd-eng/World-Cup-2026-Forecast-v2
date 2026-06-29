@@ -1,6 +1,6 @@
 {
   "source": "openfootball-worldcup-json",
-  "lastUpdated": "2026-06-29T08:56:53Z",
+  "lastUpdated": "2026-06-29T15:42:33Z",
   "groups": {
     "A": [
       "Mexico",
@@ -2736,7 +2736,7 @@
         "num": 90,
         "date": "2026-07-04",
         "time": "12:00 UTC-5",
-        "team1": "W73",
+        "team1": "Canada",
         "team2": "W75",
         "ground": "Houston"
       },
