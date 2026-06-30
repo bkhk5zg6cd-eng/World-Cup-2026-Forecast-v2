@@ -1,6 +1,6 @@
 {
   "source": "openfootball-worldcup-json",
-  "lastUpdated": "2026-06-30T17:51:10Z",
+  "lastUpdated": "2026-06-30T21:26:27Z",
   "groups": {
     "A": [
       "Mexico",
@@ -2716,6 +2716,32 @@
         "time": "12:00 UTC-5",
         "team1": "Ivory Coast",
         "team2": "Norway",
+        "score": {
+          "ft": [
+            1,
+            2
+          ],
+          "ht": [
+            0,
+            1
+          ]
+        },
+        "goals1": [
+          {
+            "name": "Amad Diallo",
+            "minute": "74"
+          }
+        ],
+        "goals2": [
+          {
+            "name": "Antonio Nusa",
+            "minute": "39"
+          },
+          {
+            "name": "Erling Haaland",
+            "minute": "86"
+          }
+        ],
         "ground": "Dallas (Arlington)"
       },
       {
