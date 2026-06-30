@@ -1,6 +1,6 @@
 {
   "source": "openfootball-worldcup-json",
-  "lastUpdated": "2026-06-29T21:24:53Z",
+  "lastUpdated": "2026-06-30T03:29:30Z",
   "groups": {
     "A": [
       "Mexico",
@@ -2594,6 +2594,36 @@
         "time": "16:30 UTC-4",
         "team1": "Germany",
         "team2": "Paraguay",
+        "score": {
+          "p": [
+            3,
+            4
+          ],
+          "et": [
+            1,
+            1
+          ],
+          "ft": [
+            1,
+            1
+          ],
+          "ht": [
+            0,
+            1
+          ]
+        },
+        "goals1": [
+          {
+            "name": "Kai Havertz",
+            "minute": "54"
+          }
+        ],
+        "goals2": [
+          {
+            "name": "Julio Enciso",
+            "minute": "42"
+          }
+        ],
         "ground": "Boston (Foxborough)"
       },
       {
