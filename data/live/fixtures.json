@@ -1,6 +1,6 @@
 {
   "source": "openfootball-worldcup-json",
-  "lastUpdated": "2026-07-02T21:03:22Z",
+  "lastUpdated": "2026-07-03T02:46:40Z",
   "groups": {
     "A": [
       "Mexico",
@@ -2919,6 +2919,33 @@
         "time": "19:00 UTC-4",
         "team1": "Portugal",
         "team2": "Croatia",
+        "score": {
+          "ft": [
+            2,
+            1
+          ],
+          "ht": [
+            0,
+            0
+          ]
+        },
+        "goals1": [
+          {
+            "name": "Cristiano Ronaldo",
+            "minute": "68",
+            "penalty": true
+          },
+          {
+            "name": "Gonçalo Ramos",
+            "minute": "90+4"
+          }
+        ],
+        "goals2": [
+          {
+            "name": "Ivan Perisic",
+            "minute": "53"
+          }
+        ],
         "ground": "Toronto"
       },
       {
@@ -2928,6 +2955,31 @@
         "time": "12:00 UTC-7",
         "team1": "Spain",
         "team2": "Austria",
+        "score": {
+          "ft": [
+            3,
+            0
+          ],
+          "ht": [
+            1,
+            0
+          ]
+        },
+        "goals1": [
+          {
+            "name": "Mikel Oyarzabal",
+            "minute": "36"
+          },
+          {
+            "name": "Pedro Porro",
+            "minute": "66"
+          },
+          {
+            "name": "Mikel Oyarzabal",
+            "minute": "89"
+          }
+        ],
+        "goals2": [],
         "ground": "Los Angeles (Inglewood)"
       },
       {
