@@ -1,6 +1,6 @@
 {
   "source": "openfootball-worldcup-json",
-  "lastUpdated": "2026-07-03T21:03:03Z",
+  "lastUpdated": "2026-07-04T02:42:31Z",
   "groups": {
     "A": [
       "Mexico",
@@ -3019,6 +3019,45 @@
         "time": "18:00 UTC-4",
         "team1": "Argentina",
         "team2": "Cape Verde",
+        "score": {
+          "et": [
+            3,
+            2
+          ],
+          "ft": [
+            1,
+            1
+          ],
+          "ht": [
+            1,
+            0
+          ]
+        },
+        "goals1": [
+          {
+            "name": "Lionel Messi",
+            "minute": "29"
+          },
+          {
+            "name": "Lisandro Martínez",
+            "minute": "92"
+          },
+          {
+            "name": "Diney Borges",
+            "minute": "111",
+            "owngoal": true
+          }
+        ],
+        "goals2": [
+          {
+            "name": "Deroy Duarte",
+            "minute": "59"
+          },
+          {
+            "name": "Sidny Lopes Cabral",
+            "minute": "103"
+          }
+        ],
         "ground": "Miami (Miami Gardens)"
       },
       {
@@ -3037,6 +3076,37 @@
         "time": "13:00 UTC-5",
         "team1": "Australia",
         "team2": "Egypt",
+        "score": {
+          "p": [
+            2,
+            4
+          ],
+          "et": [
+            1,
+            1
+          ],
+          "ft": [
+            1,
+            1
+          ],
+          "ht": [
+            0,
+            1
+          ]
+        },
+        "goals1": [
+          {
+            "name": "Mohamed Hany",
+            "minute": "55",
+            "owngoal": true
+          }
+        ],
+        "goals2": [
+          {
+            "name": "Emam Ashour",
+            "minute": "13"
+          }
+        ],
         "ground": "Dallas (Arlington)"
       },
       {
