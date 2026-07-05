@@ -1,6 +1,6 @@
 {
   "source": "openfootball-worldcup-json",
-  "lastUpdated": "2026-07-04T20:54:47Z",
+  "lastUpdated": "2026-07-05T02:53:10Z",
   "groups": {
     "A": [
       "Mexico",
@@ -3133,6 +3133,24 @@
         "time": "17:00 UTC-4",
         "team1": "Paraguay",
         "team2": "France",
+        "score": {
+          "ft": [
+            0,
+            1
+          ],
+          "ht": [
+            0,
+            0
+          ]
+        },
+        "goals1": [],
+        "goals2": [
+          {
+            "name": "Kylian Mbappé",
+            "minute": "70",
+            "penalty": true
+          }
+        ],
         "ground": "Philadelphia"
       },
       {
