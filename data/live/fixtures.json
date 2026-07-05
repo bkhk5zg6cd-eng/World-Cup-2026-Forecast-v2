@@ -1,6 +1,6 @@
 {
   "source": "openfootball-worldcup-json",
-  "lastUpdated": "2026-07-05T17:06:58Z",
+  "lastUpdated": "2026-07-05T20:57:16Z",
   "groups": {
     "A": [
       "Mexico",
@@ -3246,8 +3246,8 @@
         "num": 97,
         "date": "2026-07-09",
         "time": "16:00 UTC-4",
-        "team1": "W89",
-        "team2": "W90",
+        "team1": "France",
+        "team2": "Morocco",
         "ground": "Boston (Foxborough)"
       },
       {
