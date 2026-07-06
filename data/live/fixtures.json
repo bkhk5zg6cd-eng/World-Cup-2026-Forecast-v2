@@ -1,6 +1,6 @@
 {
   "source": "openfootball-worldcup-json",
-  "lastUpdated": "2026-07-06T08:17:43Z",
+  "lastUpdated": "2026-07-06T15:27:21Z",
   "groups": {
     "A": [
       "Mexico",
@@ -3327,8 +3327,8 @@
         "num": 99,
         "date": "2026-07-11",
         "time": "17:00 UTC-4",
-        "team1": "W91",
-        "team2": "W92",
+        "team1": "Norway",
+        "team2": "England",
         "ground": "Miami (Miami Gardens)"
       },
       {
