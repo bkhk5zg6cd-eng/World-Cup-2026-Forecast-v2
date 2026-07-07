@@ -1,6 +1,6 @@
 {
   "source": "openfootball-worldcup-json",
-  "lastUpdated": "2026-07-06T21:26:38Z",
+  "lastUpdated": "2026-07-07T02:53:34Z",
   "groups": {
     "A": [
       "Mexico",
@@ -3301,6 +3301,40 @@
         "time": "17:00 UTC-7",
         "team1": "USA",
         "team2": "Belgium",
+        "score": {
+          "ft": [
+            1,
+            4
+          ],
+          "ht": [
+            1,
+            2
+          ]
+        },
+        "goals1": [
+          {
+            "name": "Malik Tillman",
+            "minute": "31"
+          }
+        ],
+        "goals2": [
+          {
+            "name": "Charles De Ketelaere",
+            "minute": "9"
+          },
+          {
+            "name": "Charles De Ketelaere",
+            "minute": "33"
+          },
+          {
+            "name": "Hans Vanaken",
+            "minute": "57"
+          },
+          {
+            "name": "Romelu Lukaku",
+            "minute": "90+3"
+          }
+        ],
         "ground": "Seattle"
       },
       {
