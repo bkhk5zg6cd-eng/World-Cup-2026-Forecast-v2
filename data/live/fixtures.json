@@ -1,6 +1,6 @@
 {
   "source": "openfootball-worldcup-json",
-  "lastUpdated": "2026-07-07T21:22:00Z",
+  "lastUpdated": "2026-07-08T02:30:31Z",
   "groups": {
     "A": [
       "Mexico",
@@ -3387,6 +3387,24 @@
         "time": "13:00 UTC-7",
         "team1": "Switzerland",
         "team2": "Colombia",
+        "score": {
+          "p": [
+            4,
+            3
+          ],
+          "et": [
+            0,
+            0
+          ],
+          "ft": [
+            0,
+            0
+          ],
+          "ht": [
+            0,
+            0
+          ]
+        },
         "ground": "Vancouver"
       },
       {
