@@ -1,6 +1,6 @@
 {
   "source": "openfootball-worldcup-json",
-  "lastUpdated": "2026-07-08T10:14:25Z",
+  "lastUpdated": "2026-07-08T13:59:34Z",
   "groups": {
     "A": [
       "Mexico",
@@ -3439,8 +3439,8 @@
         "num": 100,
         "date": "2026-07-11",
         "time": "20:00 UTC-5",
-        "team1": "W95",
-        "team2": "W96",
+        "team1": "Argentina",
+        "team2": "Switzerland",
         "ground": "Kansas City"
       },
       {
