@@ -1,6 +1,6 @@
 {
   "source": "openfootball-worldcup-json",
-  "lastUpdated": "2026-07-10T17:45:42Z",
+  "lastUpdated": "2026-07-10T21:04:00Z",
   "groups": {
     "A": [
       "Mexico",
@@ -3444,6 +3444,32 @@
         "time": "12:00 UTC-7",
         "team1": "Spain",
         "team2": "Belgium",
+        "score": {
+          "ft": [
+            2,
+            1
+          ],
+          "ht": [
+            1,
+            1
+          ]
+        },
+        "goals1": [
+          {
+            "name": "Fabián Ruiz",
+            "minute": "30"
+          },
+          {
+            "name": "Mikel Merino",
+            "minute": "88"
+          }
+        ],
+        "goals2": [
+          {
+            "name": "Charles De Ketelaere",
+            "minute": "41"
+          }
+        ],
         "ground": "Los Angeles (Inglewood)"
       },
       {
