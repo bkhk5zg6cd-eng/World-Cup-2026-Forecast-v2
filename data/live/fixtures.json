@@ -1,6 +1,6 @@
 {
   "source": "openfootball-worldcup-json",
-  "lastUpdated": "2026-07-09T21:21:12Z",
+  "lastUpdated": "2026-07-10T02:50:14Z",
   "groups": {
     "A": [
       "Mexico",
@@ -3414,6 +3414,27 @@
         "time": "16:00 UTC-4",
         "team1": "France",
         "team2": "Morocco",
+        "score": {
+          "ft": [
+            2,
+            0
+          ],
+          "ht": [
+            0,
+            0
+          ]
+        },
+        "goals1": [
+          {
+            "name": "Kylian Mbappé",
+            "minute": "60"
+          },
+          {
+            "name": "Ousmane Dembélé",
+            "minute": "66"
+          }
+        ],
+        "goals2": [],
         "ground": "Boston (Foxborough)"
       },
       {
