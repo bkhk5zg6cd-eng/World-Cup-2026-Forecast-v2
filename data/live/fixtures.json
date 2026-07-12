@@ -1,6 +1,6 @@
 {
   "source": "openfootball-worldcup-json",
-  "lastUpdated": "2026-07-12T13:14:45Z",
+  "lastUpdated": "2026-07-12T16:56:41Z",
   "groups": {
     "A": [
       "Mexico",
@@ -3568,8 +3568,8 @@
         "num": 102,
         "date": "2026-07-15",
         "time": "15:00 UTC-4",
-        "team1": "W99",
-        "team2": "W100",
+        "team1": "England",
+        "team2": "Argentina",
         "ground": "Atlanta"
       },
       {
