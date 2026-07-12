@@ -1,6 +1,6 @@
 {
   "source": "openfootball-worldcup-json",
-  "lastUpdated": "2026-07-11T20:43:24Z",
+  "lastUpdated": "2026-07-12T02:33:29Z",
   "groups": {
     "A": [
       "Mexico",
@@ -3479,6 +3479,36 @@
         "time": "17:00 UTC-4",
         "team1": "Norway",
         "team2": "England",
+        "score": {
+          "et": [
+            1,
+            2
+          ],
+          "ft": [
+            1,
+            1
+          ],
+          "ht": [
+            1,
+            1
+          ]
+        },
+        "goals1": [
+          {
+            "name": "Andreas Schjelderup",
+            "minute": "36"
+          }
+        ],
+        "goals2": [
+          {
+            "name": "Jude Bellingham",
+            "minute": "45+2"
+          },
+          {
+            "name": "Jude Bellingham",
+            "minute": "93"
+          }
+        ],
         "ground": "Miami (Miami Gardens)"
       },
       {
