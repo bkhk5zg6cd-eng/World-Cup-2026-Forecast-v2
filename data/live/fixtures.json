@@ -1,6 +1,6 @@
 {
   "source": "openfootball-worldcup-json",
-  "lastUpdated": "2026-07-14T20:58:28Z",
+  "lastUpdated": "2026-07-15T02:12:29Z",
   "groups": {
     "A": [
       "Mexico",
@@ -3561,6 +3561,28 @@
         "time": "14:00 UTC-5",
         "team1": "France",
         "team2": "Spain",
+        "score": {
+          "ft": [
+            0,
+            2
+          ],
+          "ht": [
+            0,
+            1
+          ]
+        },
+        "goals1": [],
+        "goals2": [
+          {
+            "name": "Mikel Oyarzabal",
+            "minute": "22",
+            "penalty": true
+          },
+          {
+            "name": "Pedro Porro",
+            "minute": "58"
+          }
+        ],
         "ground": "Dallas (Arlington)"
       },
       {
