@@ -1,6 +1,6 @@
 {
   "source": "openfootball-worldcup-json",
-  "lastUpdated": "2026-07-15T20:57:56Z",
+  "lastUpdated": "2026-07-16T02:25:11Z",
   "groups": {
     "A": [
       "Mexico",
@@ -3592,6 +3592,32 @@
         "time": "15:00 UTC-4",
         "team1": "England",
         "team2": "Argentina",
+        "score": {
+          "ft": [
+            1,
+            2
+          ],
+          "ht": [
+            0,
+            0
+          ]
+        },
+        "goals1": [
+          {
+            "name": "Anthony Gordon",
+            "minute": "55"
+          }
+        ],
+        "goals2": [
+          {
+            "name": "Enzo Fernández",
+            "minute": "86"
+          },
+          {
+            "name": "Lautaro Martínez",
+            "minute": "92"
+          }
+        ],
         "ground": "Atlanta"
       },
       {
@@ -3600,7 +3626,7 @@
         "date": "2026-07-18",
         "time": "17:00 UTC-4",
         "team1": "France",
-        "team2": "L102",
+        "team2": "England",
         "ground": "Miami (Miami Gardens)"
       },
       {
@@ -3609,7 +3635,7 @@
         "date": "2026-07-19",
         "time": "15:00 UTC-4",
         "team1": "Spain",
-        "team2": "W102",
+        "team2": "Argentina",
         "ground": "New York/New Jersey (East Rutherford)"
       }
     ]
