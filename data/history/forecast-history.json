@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-18T16:55:31Z",
+  "generatedAt": "2026-07-18T20:43:06Z",
   "snapshots": [
     {
       "timestamp": "2026-05-15T16:31:51Z",
@@ -37317,6 +37317,143 @@
     },
     {
       "timestamp": "2026-07-18T16:55:31Z",
+      "modelVersion": "1.0.0",
+      "latestMatchIncluded": "Latest available public data refresh.",
+      "topChampion": "Spain",
+      "topChampionProbability": 15.049,
+      "top10": [
+        {
+          "team": "Spain",
+          "group": "H",
+          "region": "UEFA",
+          "championProbability": 15.049,
+          "baselineChampionProbability": 15.6,
+          "probabilityChange": -0.551,
+          "adjustedStrength": 96.147
+        },
+        {
+          "team": "France",
+          "group": "I",
+          "region": "UEFA",
+          "championProbability": 13.741,
+          "baselineChampionProbability": 13.9,
+          "probabilityChange": -0.159,
+          "adjustedStrength": 95.375
+        },
+        {
+          "team": "Argentina",
+          "group": "J",
+          "region": "CONMEBOL",
+          "championProbability": 10.206,
+          "baselineChampionProbability": 9.9,
+          "probabilityChange": 0.306,
+          "adjustedStrength": 92.16
+        },
+        {
+          "team": "England",
+          "group": "L",
+          "region": "UEFA",
+          "championProbability": 10.008,
+          "baselineChampionProbability": 11.5,
+          "probabilityChange": -1.492,
+          "adjustedStrength": 88.824
+        },
+        {
+          "team": "Brazil",
+          "group": "C",
+          "region": "CONMEBOL",
+          "championProbability": 6.929,
+          "baselineChampionProbability": 8.3,
+          "probabilityChange": -1.371,
+          "adjustedStrength": 83.059
+        },
+        {
+          "team": "Portugal",
+          "group": "K",
+          "region": "UEFA",
+          "championProbability": 5.199,
+          "baselineChampionProbability": 6.4,
+          "probabilityChange": -1.201,
+          "adjustedStrength": 78.611
+        },
+        {
+          "team": "Germany",
+          "group": "E",
+          "region": "UEFA",
+          "championProbability": 4.348,
+          "baselineChampionProbability": 5.3,
+          "probabilityChange": -0.952,
+          "adjustedStrength": 76.554
+        },
+        {
+          "team": "Netherlands",
+          "group": "F",
+          "region": "UEFA",
+          "championProbability": 3.16,
+          "baselineChampionProbability": 3.7,
+          "probabilityChange": -0.54,
+          "adjustedStrength": 73.401
+        },
+        {
+          "team": "Belgium",
+          "group": "G",
+          "region": "UEFA",
+          "championProbability": 2.467,
+          "baselineChampionProbability": 2.8,
+          "probabilityChange": -0.333,
+          "adjustedStrength": 70.886
+        },
+        {
+          "team": "Morocco",
+          "group": "C",
+          "region": "CAF",
+          "championProbability": 2.038,
+          "baselineChampionProbability": 2.0,
+          "probabilityChange": 0.038,
+          "adjustedStrength": 71.044
+        }
+      ],
+      "dataHealth": [
+        {
+          "name": "fixtures",
+          "status": "current",
+          "freshness": "refreshed",
+          "message": "OpenFootball JSON fetched successfully."
+        },
+        {
+          "name": "results",
+          "status": "pending",
+          "freshness": "not-started",
+          "message": "No official match results ingested yet. Workflow is ready for tournament results."
+        },
+        {
+          "name": "rankings",
+          "status": "seeded",
+          "freshness": "baseline",
+          "message": "Baseline ranking proxies included."
+        },
+        {
+          "name": "elo",
+          "status": "seeded",
+          "freshness": "baseline",
+          "message": "Baseline Elo proxies included."
+        },
+        {
+          "name": "injuries",
+          "status": "warning",
+          "freshness": "best-effort",
+          "message": "No reliable free injury API configured. Existing injury assumptions preserved with confidence flags."
+        },
+        {
+          "name": "squads",
+          "status": "assumption",
+          "freshness": "requires-free-source-validation",
+          "message": "Final squads should be refreshed when published."
+        }
+      ]
+    },
+    {
+      "timestamp": "2026-07-18T20:43:06Z",
       "modelVersion": "1.0.0",
       "latestMatchIncluded": "Latest available public data refresh.",
       "topChampion": "Spain",
