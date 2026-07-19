@@ -1,6 +1,6 @@
 {
   "source": "openfootball-worldcup-json",
-  "lastUpdated": "2026-07-18T20:43:06Z",
+  "lastUpdated": "2026-07-19T02:30:31Z",
   "groups": {
     "A": [
       "Mexico",
@@ -3627,6 +3627,61 @@
         "time": "17:00 UTC-4",
         "team1": "France",
         "team2": "England",
+        "score": {
+          "ft": [
+            4,
+            6
+          ],
+          "ht": [
+            0,
+            4
+          ]
+        },
+        "goals1": [
+          {
+            "name": "Kylian Mbappé",
+            "minute": "48"
+          },
+          {
+            "name": "Bradley Barcola",
+            "minute": "54"
+          },
+          {
+            "name": "Kylian Mbappé",
+            "minute": "66"
+          },
+          {
+            "name": "Ousmane Dembélé",
+            "minute": "90+6"
+          }
+        ],
+        "goals2": [
+          {
+            "name": "Declan Rice",
+            "minute": "3"
+          },
+          {
+            "name": "Ezri Konsa",
+            "minute": "18"
+          },
+          {
+            "name": "Bukayo Saka",
+            "minute": "37"
+          },
+          {
+            "name": "Bukayo Saka",
+            "minute": "45+1"
+          },
+          {
+            "name": "Bukayo Saka",
+            "minute": "87",
+            "penalty": true
+          },
+          {
+            "name": "Jude Bellingham",
+            "minute": "90+8"
+          }
+        ],
         "ground": "Miami (Miami Gardens)"
       },
       {
